@@ -1,0 +1,10 @@
+D:\Demo\MangNguNghia\SemanticNetwork\bin\Debug\SemanticNetwork.exe.config
+D:\Demo\MangNguNghia\SemanticNetwork\bin\Debug\SemanticNetwork.exe
+D:\Demo\MangNguNghia\SemanticNetwork\bin\Debug\SemanticNetwork.pdb
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.csproj.AssemblyReference.cache
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.Form1.resources
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.Properties.Resources.resources
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.csproj.GenerateResource.cache
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.csproj.CoreCompileInputs.cache
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.exe
+D:\Demo\MangNguNghia\SemanticNetwork\obj\Debug\SemanticNetwork.pdb
